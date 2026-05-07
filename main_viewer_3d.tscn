@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://cxjyx2n6okiwo"]
+
+[ext_resource type="PackedScene" uid="uid://birqyoesacalq" path="res://addons/gdquest_3d_model_viewer/model_viewer_3d.tscn" id="1_2xj4b"]
+[ext_resource type="Resource" uid="uid://bnsssw75oypyi" path="res://sophia/model/sophia_model_data.tres" id="2_pl35s"]
+
+[node name="MainViewer3D" unique_id=108620119 instance=ExtResource("1_2xj4b")]
+model_data = ExtResource("2_pl35s")
