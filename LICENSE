@@ -1,11 +1,11 @@
 This project uses 2 licenses:
 
 1. The demo's source code (script files, scene files, shaders, and generally all Godot-generated resources) is available under the MIT license.
-2. Art assets (image textures and 3D models) are [CC-By 4.0](https://creativecommons.org/licenses/by/4.0/).
+2. Art assets (image textures and 3D models) are [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-In short, this means you can reuse code and art assets in your own projects freely, including commercial ones, as long as you give credit to GDQuest.
+In short, this means you can reuse and adapt code freely, including in commercial projects, as long as you give credit to GDQuest. Art assets can be shared and adapted freely as long as you give credit, do not use them for commercial purposes, and distribute any derivative works under the same license.
 
-For assets, you can add this to your credits: "Additional assets CC-By 4.0 GDQuest (https://www.gdquest.com/)".
+For assets, you can add this to your credits: "Additional assets CC BY-NC-SA 4.0 GDQuest (https://www.gdquest.com/)".
 
 For code, you can add this to your credits: "Portions of this project use code from GDQuest (https://www.gdquest.com/) licensed under MIT".
 
@@ -23,18 +23,22 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## CC-By 4.0 License
+## CC BY-NC-SA 4.0 License
 
 You are free to:
 
-- Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 Under the following terms:
 
 1. Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-2. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+2. NonCommercial — You may not use the material for commercial purposes.
+3. ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+4. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-Read the full Creative Commons Attribution 4.0 International Public License: https://creativecommons.org/licenses/by/4.0/legalcode
+Read the full Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
